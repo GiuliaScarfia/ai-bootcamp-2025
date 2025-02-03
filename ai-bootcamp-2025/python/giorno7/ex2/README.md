@@ -4,7 +4,7 @@ Estendere il programma della rubrica implementando le seguenti funzionalità:
  2. Salvataggio e caricamento del database su un file in formato JSON
 
 ## Linea di comando
-Una volta eseguito il file [`main.py`](main.py), l'utente si troverà in una
+Una volta eseguito il file [`main.py`](../../../../../../AppData/Local/Temp/main.py), l'utente si troverà in una
 modalità interattiva che gli permetterà di eseguire i seguenti comandi.
 
 ### Help

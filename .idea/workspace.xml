@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeaea82f-5c44-4b93-8bde-bd0e02fa3bd5" name="Changes" comment="" />
+    <list default="true" id="aeaea82f-5c44-4b93-8bde-bd0e02fa3bd5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai-bootcamp-2025/030225_eserciziodigruppo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno7/030225_eserciziodigruppo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/examples/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/examples/main2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/examples/rigel/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/examples/rigel/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/examples/rigel/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/giorno7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/giorno7/ex0/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno7/ex0/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/giorno7/ex0/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno7/ex0/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/giorno7/ex0/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno7/ex0/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/giorno7/ex1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno7/ex1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/giorno7/ex1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno7/ex1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/giorno7/ex2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno7/ex2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/giorno7/ex2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno7/ex2/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +79,10 @@
       <recent name="C:\Users\giuli\OneDrive\Desktop" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\giuli\PycharmProjects\PythonProject\ai-bootcamp-2025\python\giorno7\ex2" />
+      <recent name="C:\Users\giuli\PycharmProjects\PythonProject\ai-bootcamp-2025\python\giorno7\ex1" />
+      <recent name="C:\Users\giuli\PycharmProjects\PythonProject\ai-bootcamp-2025\python\giorno7\ex0" />
+      <recent name="C:\Users\giuli\PycharmProjects\PythonProject\ai-bootcamp-2025\python\giorno7" />
       <recent name="C:\Users\giuli\PycharmProjects\PythonProject\ai-bootcamp-2025\python\giorno5" />
     </key>
   </component>
