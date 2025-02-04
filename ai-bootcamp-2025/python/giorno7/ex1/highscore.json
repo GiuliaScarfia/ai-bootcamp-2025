@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Jin",
+        "tentativi": 3,
+        "data_e_ora": "2025-02-04 11:03:42",
+        "durata": 11.871483
+    },
+    {
+        "nome": "Chiaretta",
+        "tentativi": 6,
+        "data_e_ora": "2025-02-04 12:08:00",
+        "durata": 32.753055
+    },
+    {
+        "nome": "jin",
+        "tentativi": 10,
+        "data_e_ora": "2025-02-04 12:29:49",
+        "durata": 20.657935
+    }
+]
