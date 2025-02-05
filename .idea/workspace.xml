@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aeaea82f-5c44-4b93-8bde-bd0e02fa3bd5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno8/README 050225.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno8/students.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ai-bootcamp-2025/python/giorno8/students.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
